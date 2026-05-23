@@ -4,6 +4,25 @@ Este repositorio será utilizado para construir progresivamente un proyecto peda
 
 ## Advertencia
 
+Nombre del estudiante:
+Alexander Rincon
+
+Nombre de la plataforma:
+Plataforma juvenil de participación
+
+Propósito:
+Aprender cómo la tecnologia puede apoyar ejercicios pedagogicos de participación juvenil, transparencia y trazabilidad
+
+#REGLAS DE CUIDADO
+-No usar datos reales
+-No usar cédula
+-No usar información sensible
+-No usar nombres de candidatos reales
+-No presentar datos como resultados oficiales
+
+##Importancia de Git
+Git permite registrar los cambios del  proyecto y revisar que se modiffico en cada momento
+
 Este proyecto es únicamente académico.
 
 No corresponde a una elección real.
