@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1779913941588,
+    "nombre": "Aquiles Cuento",
+    "rol": "veedor",
+    "propuesta": "Publicar un informe mensual para que todos sepan exactamente cómo se usan los recursos.",
+    "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1779914101525,
+    "nombre": "Armando Casas",
+    "rol": "veedor",
+    "propuesta": "Revisar semanalmente el estado de las zonas comunes y reportar los daños para su reparación inmediata.",
+    "estado": "Perfil de práctica académica"
+  },
+  {
+    "id": 1779914307747,
+    "nombre": "Elio Reviso",
+    "rol": "veedor",
+    "propuesta": "Vigilar que todas las actividades incluyan y respeten los derechos de cada miembro del grupo.",
+    "estado": "Perfil de práctica académica"
+  }
+]
