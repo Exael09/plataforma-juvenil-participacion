@@ -1,0 +1,108 @@
+BITÁCORA DE TERMINAL - CLASE 36
+Código abierto, soberanía tecnológica y primeros pasos en terminal
+
+Nombre del estudiante: Alexander Rincon
+Fecha: 05/06/26
+Clase: Gupo #41
+Entorno usado: Codespaces
+
+1. ¿Qué es un sistema operativo?
+Respuesta: Es el software principal de un computador o servidor.
+
+2. ¿Qué es el código abierto?
+Respuesta: Es cuando el codigo de un programa puede ser: Estudiado, modificado, revisado y compartido por otras personas.
+
+3. ¿Qué significa soberanía tecnológica?
+Respuesta: Significa tener el control total sobre la tecnologia que usamos.
+
+4. ¿Qué es Linux?
+Respuesta: Es un sistema operativo de codigo abierto.
+
+5. ¿Qué es Debian?
+Respuesta: Es una distribucion de linux.
+
+6. ¿Qué es un servidor?
+Respuesta: Es un equipo fisico o virtual que ofrecen servicios a otros usuarios o dispositivos.
+
+7. ¿Qué es una terminal?
+Respuesta: Es una interfaz de tetxo que nos permite comunicarnos directamente con el sistema operativo.
+
+8. Comandos ejecutados y resultado observado:
+
+Comando: whoami
+Resultado: Muestra el usuario que esta actualmente conectado.
+
+Comando: hostname
+Resultado: Muestra el nombre del servidor o del equipo.
+
+Comando: date
+Resultado: Muestra la fecha y hora actual.
+
+Comando: pwd
+Resultado: Muestra la ruta sobre la que estas actualmente.
+
+Comando: ls
+Resultado: Muestra todos los archivos y carpetas de la ruta actual.
+
+Comando: ls -la
+Resultado: Muestra todos los archivos y carpetass de la ruta actual, incluyendo los que estan ocultos.
+
+Comando: mkdir practica-linux
+Resultado: Crea una carpeta con el nombre: practica-linux.
+
+Comando: cd practica-linux
+Resultado: Cambia la ruta a dentro de la carpeta practica-linux.
+
+Comando: touch notas.txt
+Resultado: Crea un archivo de texto con nombre: notas.txt.
+
+Comando: echo "Mi primera practica en terminal Debian" > notas.txt
+Resultado: Ingresó una linea de texto en el archivo: notas.txt..
+
+Comando: cat notas.txt
+Resultado: Muestra el contenido del archivo notas.txt.
+
+Comando: cp notas.txt copia-notas.txt
+Resultado: Copia el conntenido del archivo notas.txt y lo pega en uno nuevo con el nombre copia-notas.txt.
+
+Comando: mv copia-notas.txt notas-renombradas.txt
+Resultado: Cambió el nombre del archivo copia-notas.txt a notas-renombradas.txt.
+
+Comando: mkdir respaldo
+Resultado: Creó una carpeta de nombre respaldo.
+
+Comando: mv notas-renombradas.txt respaldo/
+Resultado: Movió el archivo notas-renombradas.txt a la carpeta respaldo.
+
+Comando: df -h
+Resultado: Muestra el espacio libre y ocupado del almacenamiento en el sistema.
+
+Comando: free -h
+Resultado: Muestra cuanta memoria RAM esta usando el sistema.
+
+Comando: uname -a
+Resultado: Muestra la información técnica del sistema operativo y el núcleo.
+
+Comando: history
+Resultado: Muestra el historial de comandos realizados.
+
+Comando: ip a
+Resultado: Muestra las tarjetas de red y las direcciones ip asignadas.
+
+Comando: top
+Resultado: Muestra en tiempo real los procesos del sistema y el uso de recursos.
+
+9. ¿Qué comando me pareció más útil y por qué?
+Respuesta: touch, porque creo que es de los más basicos y que más se usan.
+
+10. ¿Qué aprendí sobre el uso responsable de la terminal?
+Respuesta:  Aprendí que no se deben ejecutar comandos sin entender que hacen exactamente.
+
+11. ¿Qué información no debo publicar en capturas o evidencias?
+Respuesta: Usuarios, contraseñas, tokens, Ip o rutas sensibles.
+
+12. ¿Qué cuidados debo tener al trabajar en un servidor?
+Respuesta: No debo borrar archivos del servidor, no modificar configuraciones sensibles ni finalizar los procesos del servidor.
+
+13. ¿Cómo se relaciona la terminal con la soberanía tecnológica?
+Respuesta: Así como la soberania tecnológica es tener el contral total de nuestra tecnologia, la terminal nos da el control total de nuestro sistema operativo.
